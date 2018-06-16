@@ -178,7 +178,7 @@ contract ALZRNEMTokenERC20 {
 /*       ADVANCED TOKEN STARTS HERE       */
 /******************************************/
 
-contract MyAdvancedToken is owned, CCXTokenERC20 {
+contract MyAdvancedToken is owned, AlizarienTokenERC20 {
 
 
 
