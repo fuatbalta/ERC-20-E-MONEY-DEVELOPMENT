@@ -23,7 +23,7 @@ contract ALZRNEMTokenERC20 {
     string public constant _myTokeName = 'Alizarinem Token';
     string public constant _mySymbol = 'ALZRNEM';
     uint public constant _myinitialSupply = 2500000;
-    uint8 public constant _myDecimal = 18;//leave it
+    uint8 public constant _myDecimal = 18;
     // Public variables of the token
     string public name;
     string public symbol;
